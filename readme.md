@@ -2,6 +2,8 @@
 
 A microservices-based message queue system built with Go and RabbitMQ, demonstrating asynchronous communication between services.
 
+check the article associated with this project [here](https://medium.com/@magistraagis/implement-message-queue-using-rabbitmq-2902d1f0014d)
+
 ## Project Overview
 
 This project implements a distributed system with two microservices:
